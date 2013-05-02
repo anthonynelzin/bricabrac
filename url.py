@@ -1,3 +1,3 @@
 import re
-s = 'Lorem ipsum http://tinyurl.com/blah dolor http://blabla.com'
-print re.findall(r'(https?://\S+)', s)
+string = 'Je cherche une URL http://nelz.in/anthony/ et je la trouve.'
+print re.findall(r'(https?://\S+)', string)
