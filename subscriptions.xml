@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>RSS subscriptions for anthony@nelzin.fr</title>
-    <dateCreated>Fri, 16 Aug 2019 05:06:58 -0500</dateCreated>
+    <dateCreated>Fri, 16 Aug 2019 07:23:13 -0500</dateCreated>
     <ownerEmail>anthony@nelzin.fr</ownerEmail>
   </head>
   <body>
@@ -27,6 +27,7 @@
 <outline text="Brand New" title="Brand New" type="rss" xmlUrl="http://feeds.feedburner.com/ucllc/brandnew" htmlUrl="https://www.underconsideration.com/brandnew/"/>
 <outline text="Typographica" title="Typographica" type="rss" xmlUrl="http://feeds2.feedburner.com/typographica" htmlUrl="https://typographica.org"/>
 <outline text="Macdrifter" title="Macdrifter" type="rss" xmlUrl="http://macdrifter.com/feeds/all.atom.xml" htmlUrl="http://www.macdrifter.com/"/>
+<outline text="Nieman Lab" title="Nieman Lab" type="rss" xmlUrl="http://feeds.feedburner.com/NiemanJournalismLab" htmlUrl="https://www.niemanlab.org"/>
 <outline text="inessential.com" title="inessential.com" type="rss" xmlUrl="http://inessential.com/xml/rss.xml" htmlUrl="https://inessential.com/"/>
 <outline text="What If?" title="What If?" type="rss" xmlUrl="http://whatif.xkcd.com/feed.atom" htmlUrl="https://what-if.xkcd.com/feed.atom"/>
 <outline text="Rasmus Andersson" title="Rasmus Andersson" type="rss" xmlUrl="http://feeds.feedburner.com/hunch" htmlUrl="http://rsms.me/"/>
@@ -68,6 +69,7 @@
 <outline text="Archimago's Musings" title="Archimago's Musings" type="rss" xmlUrl="http://archimago.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://archimago.blogspot.com/"/>
 <outline text="Ricky Mondello" title="Ricky Mondello" type="rss" xmlUrl="http://feeds.feedburner.com/rmondello" htmlUrl="https://rmondello.com"/>
 <outline text="Saturday Morning Breakfast Cereal (updated daily)" title="Saturday Morning Breakfast Cereal (updated daily)" type="rss" xmlUrl="http://www.smbc-comics.com/rss.php" htmlUrl="https://www.smbc-comics.com/"/>
+<outline text="Letters of Note" title="Letters of Note" type="rss" xmlUrl="http://www.lettersofnote.com/feeds/posts/default" htmlUrl="http://www.lettersofnote.com/"/>
 <outline text="I love typography, the typography and fonts blog" title="I love typography, the typography and fonts blog" type="rss" xmlUrl="http://feedproxy.google.com/ILoveTypography" htmlUrl="https://ilovetypography.com"/>
 <outline text="ThemeShaper" title="ThemeShaper" type="rss" xmlUrl="http://themeshaper.com/feed/" htmlUrl="https://themeshaper.com"/>
 <outline text="Other World Computing Blog" title="Other World Computing Blog" type="rss" xmlUrl="http://blog.macsales.com/feed" htmlUrl="https://blog.macsales.com"/>
@@ -138,13 +140,13 @@
 <outline text="CW Pencil Enterprise - News" title="CW Pencil Enterprise - News" type="rss" xmlUrl="https://cwpencils.com/blogs/news.atom" htmlUrl="https://cwpencils.com/blogs/news"/>
 <outline text="daverupert.com" title="daverupert.com" type="rss" xmlUrl="https://daverupert.com/atom.xml" htmlUrl="http://daverupert.com"/>
 <outline text="Trent Walton" title="Trent Walton" type="rss" xmlUrl="http://trentwalton.com/feed.xml" htmlUrl="http://trentwalton.com"/>
+<outline text="urbanbike, notes écrites à la main…!" title="urbanbike, notes écrites à la main…!" type="rss" xmlUrl="https://urbanbike.com/index.php/site/atom/" htmlUrl="https://urbanbike.com/index.php/site/index/"/>
 <outline text="Above Avalon" title="Above Avalon" type="rss" xmlUrl="https://www.aboveavalon.com/notes?format=RSS" htmlUrl="https://www.aboveavalon.com/"/>
 <outline text="kieranhealy.org on kieranhealy.org" title="kieranhealy.org on kieranhealy.org" type="rss" xmlUrl="https://kieranhealy.org/index.xml" htmlUrl="https://kieranhealy.org/"/>
 <outline text="Ethan Marcotte’s website" title="Ethan Marcotte’s website" type="rss" xmlUrl="https://ethanmarcotte.com/wrote/feed.xml" htmlUrl="https://ethanmarcotte.com"/>
 <outline text="Data Sciences Sociales" title="Data Sciences Sociales" type="rss" xmlUrl="http://data.hypotheses.org/feed" htmlUrl="https://data.hypotheses.org"/>
 <outline text="Vox Product Blog -  All" title="Vox Product Blog -  All" type="rss" xmlUrl="https://product.voxmedia.com/rss/index.xml" htmlUrl="https://product.voxmedia.com/"/>
 <outline text="Audacious Fox" title="Audacious Fox" type="rss" xmlUrl="https://audaciousfox.net/feeds/main.xml" htmlUrl="https://audaciousfox.net"/>
-<outline text="The Focus Course" title="The Focus Course" type="rss" xmlUrl="https://thefocuscourse.com/feed/" htmlUrl="https://thefocuscourse.com"/>
 <outline text="On my Om" title="On my Om" type="rss" xmlUrl="https://om.co/feed/" htmlUrl="https://om.co"/>
 <outline text="Comments on: Vol. 3 No. 2 Summer 2014" title="Comments on: Vol. 3 No. 2 Summer 2014" type="rss" xmlUrl="http://journalofdigitalhumanities.org/3-2/feed/" htmlUrl="http://journalofdigitalhumanities.org"/>
 <outline text="Dustin Curtis" title="Dustin Curtis" type="rss" xmlUrl="https://feeds.feedburner.com/dcurtis" htmlUrl="https://dcurt.is"/>
@@ -171,7 +173,6 @@
 <outline text="Hugo News on Hugo" title="Hugo News on Hugo" type="rss" xmlUrl="https://gohugo.io/news/index.xml" htmlUrl="https://gohugo.io/news/"/>
 <outline text="The Sweet Setup" title="The Sweet Setup" type="rss" xmlUrl="https://thesweetsetup.com/feed/" htmlUrl="https://thesweetsetup.com"/>
 <outline text="Initial Charge" title="Initial Charge" type="rss" xmlUrl="https://initialcharge.net/feed/" htmlUrl="https://initialcharge.net"/>
-<outline text="urbanbike, notes écrites à la main…!" title="urbanbike, notes écrites à la main…!" type="rss" xmlUrl="https://urbanbike.com/index.php/site/rss_2.0/" htmlUrl="https://urbanbike.com/index.php/site/index/"/>
 <outline text="RSS - Actualité CNIL.fr" title="RSS - Actualité CNIL.fr" type="rss" xmlUrl="https://www.cnil.fr/fr/rss.xml" htmlUrl="https://www.cnil.fr/fr/rss.xml"/>
 <outline text="Pizza Box Computer" title="Pizza Box Computer" type="rss" xmlUrl="https://blog.pizzabox.computer/index.xml" htmlUrl="https://blog.pizzabox.computer/"/>
 <outline text="FrankUnderwater" title="FrankUnderwater" type="rss" xmlUrl="https://frankunderwater.com/feed/" htmlUrl="https://frankunderwater.com"/>
@@ -261,6 +262,7 @@
 <outline text="À la fortune du mot" title="À la fortune du mot" type="rss" xmlUrl="http://alafortunedumot.blogs.lavoixdunord.fr/index.rss" htmlUrl="http://alafortunedumot.blogs.lavoixdunord.fr/"/>
 <outline text="L'influx" title="L'influx" type="rss" xmlUrl="http://www.linflux.com/feed/?post_type=post" htmlUrl="http://www.linflux.com"/>
 <outline text="Éditions Les Belles Lettres : le blog" title="Éditions Les Belles Lettres : le blog" type="rss" xmlUrl="https://lesbelleslettresblog.com/feed/" htmlUrl="https://lesbelleslettresblog.com"/>
+<outline text="C'est un peu court, Gète." title="C'est un peu court, Gète." type="rss" xmlUrl="https://blog.gete.net/feed/" htmlUrl="https://blog.gete.net"/>
 <outline text="Manuel Matuzović's weblog" title="Manuel Matuzović's weblog" type="rss" xmlUrl="https://www.matuzo.at/feed.xml" htmlUrl="https://matuzo.at"/>
 <outline text="Bribes de réel" title="Bribes de réel" type="rss" xmlUrl="https://bribesdereel.net/feed/atom" htmlUrl="https://bribesdereel.net/"/>
 <outline text="Anders Norén" title="Anders Norén" type="rss" xmlUrl="https://www.andersnoren.se/feed/" htmlUrl="https://www.andersnoren.se"/>
@@ -283,6 +285,8 @@
 <outline text="The Roots of Progress" title="The Roots of Progress" type="rss" xmlUrl="https://rootsofprogress.org/feed.xml" htmlUrl="https://rootsofprogress.org/"/>
 <outline text="rmbit – La bitácora personal de Ricardo Martín" title="rmbit – La bitácora personal de Ricardo Martín" type="rss" xmlUrl="http://bitacora.ricardomartin.info/feed/" htmlUrl="http://bitacora.ricardomartin.info"/>
 <outline text="CGT Apple Retail" title="CGT Apple Retail" type="rss" xmlUrl="http://cgtappleretail.fr/feed/" htmlUrl="http://cgtappleretail.fr"/>
+<outline text="La Lune Mauve" title="La Lune Mauve" type="rss" xmlUrl="https://lalunemauve.fr/feed/" htmlUrl="https://lalunemauve.fr"/>
+<outline text="Amy Parent" title="Amy Parent" type="rss" xmlUrl="https://amyparent.com/feed.xml" htmlUrl="https://amyparent.com/"/>
     <outline text="_Amis" title="_Amis">
     </outline>
     <outline text="_Mes sites" title="_Mes sites">
@@ -298,7 +302,7 @@
 <outline text="Above Avalon" title="Above Avalon" type="rss" xmlUrl="https://www.aboveavalon.com/notes?format=RSS" htmlUrl="https://www.aboveavalon.com/"/>
 <outline text="Philip Elmer‑DeWitt" title="Philip Elmer‑DeWitt" type="rss" xmlUrl="https://www.ped30.com/feed/" htmlUrl="https://www.ped30.com"/>
     </outline>
-    <outline text="Apple/Blogs EN" title="Apple/Blogs EN">
+    <outline text="Apple/Blogs" title="Apple/Blogs">
 <outline text="Hypercritical" title="Hypercritical" type="rss" xmlUrl="http://hypercritical.co/feeds/main" htmlUrl="http://hypercritical.co/"/>
 <outline text="The Tao of Mac" title="The Tao of Mac" type="rss" xmlUrl="http://feeds.feedburner.com/taoofmac/full" htmlUrl="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
 <outline text="Macdrifter" title="Macdrifter" type="rss" xmlUrl="http://macdrifter.com/feeds/all.atom.xml" htmlUrl="http://www.macdrifter.com/"/>
@@ -313,10 +317,6 @@
 <outline text="BirchTree" title="BirchTree" type="rss" xmlUrl="https://birchtree.me/feed/" htmlUrl="https://birchtree.me"/>
 <outline text="Ken Segall" title="Ken Segall" type="rss" xmlUrl="https://kensegall.com/feed/" htmlUrl="https://kensegall.com"/>
 <outline text="Egg Freckles" title="Egg Freckles" type="rss" xmlUrl="http://eggfreckles.net/category/notes/feed/" htmlUrl="http://eggfreckles.net"/>
-    </outline>
-    <outline text="Apple/Blogs FR" title="Apple/Blogs FR">
-<outline text="urbanbike, notes écrites à la main…!" title="urbanbike, notes écrites à la main…!" type="rss" xmlUrl="https://urbanbike.com/index.php/site/rss_2.0/" htmlUrl="https://urbanbike.com/index.php/site/index/"/>
-<outline text="Le Blog de l'Aventure Apple" title="Le Blog de l'Aventure Apple" type="rss" xmlUrl="http://www.aventure-apple.com/blog/feed/" htmlUrl="https://www.aventure-apple.com/blog"/>
     </outline>
     <outline text="Apple/Éditeurs" title="Apple/Éditeurs">
 <outline text="Panic Blog" title="Panic Blog" type="rss" xmlUrl="http://www.panic.com/blog/feed/" htmlUrl="https://panic.com/blog"/>
@@ -384,7 +384,6 @@
     </outline>
     <outline text="Blogs EN" title="Blogs EN">
 <outline text="Audacious Fox" title="Audacious Fox" type="rss" xmlUrl="https://audaciousfox.net/feeds/main.xml" htmlUrl="https://audaciousfox.net"/>
-<outline text="The Focus Course" title="The Focus Course" type="rss" xmlUrl="https://thefocuscourse.com/feed/" htmlUrl="https://thefocuscourse.com"/>
 <outline text="On my Om" title="On my Om" type="rss" xmlUrl="https://om.co/feed/" htmlUrl="https://om.co"/>
 <outline text="parker higgins dot net" title="parker higgins dot net" type="rss" xmlUrl="https://parkerhiggins.net/feed/" htmlUrl="https://parkerhiggins.net"/>
 <outline text="Initial Charge" title="Initial Charge" type="rss" xmlUrl="https://initialcharge.net/feed/" htmlUrl="https://initialcharge.net"/>
@@ -394,14 +393,20 @@
 <outline text="Devon's Site" title="Devon's Site" type="rss" xmlUrl="http://devonzuegel.com/feed.xml" htmlUrl="http://devonzuegel.com/"/>
 <outline text="Two-Bit History" title="Two-Bit History" type="rss" xmlUrl="https://twobithistory.org/feed.xml" htmlUrl="https://twobithistory.org/"/>
 <outline text="Jack Baty's Weblog" title="Jack Baty's Weblog" type="rss" xmlUrl="https://www.baty.blog/feed.rss" htmlUrl="https://www.baty.blog"/>
-<outline text="Bribes de réel" title="Bribes de réel" type="rss" xmlUrl="https://bribesdereel.net/feed/atom" htmlUrl="https://bribesdereel.net/"/>
 <outline text="chrisbowler.com" title="chrisbowler.com" type="rss" xmlUrl="https://chrisbowler.com/journal/feed" htmlUrl="https://chrisbowler.com/journal"/>
 <outline text="Coping Mechanism" title="Coping Mechanism" type="rss" xmlUrl="https://copingmechanism.com/feed/" htmlUrl="https://copingmechanism.com"/>
+<outline text="Amy Parent" title="Amy Parent" type="rss" xmlUrl="https://amyparent.com/feed.xml" htmlUrl="https://amyparent.com/"/>
     </outline>
     <outline text="Blogs EN/Twitter" title="Blogs EN/Twitter">
     </outline>
     <outline text="Blogs ES" title="Blogs ES">
 <outline text="rmbit – La bitácora personal de Ricardo Martín" title="rmbit – La bitácora personal de Ricardo Martín" type="rss" xmlUrl="http://bitacora.ricardomartin.info/feed/" htmlUrl="http://bitacora.ricardomartin.info"/>
+    </outline>
+    <outline text="Blogs FR" title="Blogs FR">
+<outline text="urbanbike, notes écrites à la main…!" title="urbanbike, notes écrites à la main…!" type="rss" xmlUrl="https://urbanbike.com/index.php/site/atom/" htmlUrl="https://urbanbike.com/index.php/site/index/"/>
+<outline text="C'est un peu court, Gète." title="C'est un peu court, Gète." type="rss" xmlUrl="https://blog.gete.net/feed/" htmlUrl="https://blog.gete.net"/>
+<outline text="Bribes de réel" title="Bribes de réel" type="rss" xmlUrl="https://bribesdereel.net/feed/atom" htmlUrl="https://bribesdereel.net/"/>
+<outline text="La Lune Mauve" title="La Lune Mauve" type="rss" xmlUrl="https://lalunemauve.fr/feed/" htmlUrl="https://lalunemauve.fr"/>
     </outline>
     <outline text="Café/Twitter" title="Café/Twitter">
     </outline>
@@ -458,6 +463,7 @@
     </outline>
     <outline text="Écrire" title="Écrire">
 <outline text="Langue sauce piquante" title="Langue sauce piquante" type="rss" xmlUrl="http://correcteurs.blog.lemonde.fr/feed/" htmlUrl="https://www.lemonde.fr/blog/correcteurs"/>
+<outline text="Letters of Note" title="Letters of Note" type="rss" xmlUrl="http://www.lettersofnote.com/feeds/posts/default" htmlUrl="http://www.lettersofnote.com/"/>
 <outline text="À la fortune du mot" title="À la fortune du mot" type="rss" xmlUrl="http://alafortunedumot.blogs.lavoixdunord.fr/index.rss" htmlUrl="http://alafortunedumot.blogs.lavoixdunord.fr/"/>
     </outline>
     <outline text="Écrire/Twitter" title="Écrire/Twitter">
@@ -465,6 +471,9 @@
     <outline text="Fintech" title="Fintech">
 <outline text="Revolut Blog" title="Revolut Blog" type="rss" xmlUrl="https://blog.revolut.com/rss/" htmlUrl="https://blog.revolut.com/"/>
 <outline text="Ma néobanque" title="Ma néobanque" type="rss" xmlUrl="https://www.ma-neobanque.com/feed/" htmlUrl="https://www.ma-neobanque.com"/>
+    </outline>
+    <outline text="Journalisme" title="Journalisme">
+<outline text="Nieman Lab" title="Nieman Lab" type="rss" xmlUrl="http://feeds.feedburner.com/NiemanJournalismLab" htmlUrl="https://www.niemanlab.org"/>
     </outline>
     <outline text="Journalisme/Twitter" title="Journalisme/Twitter">
     </outline>
@@ -481,6 +490,7 @@
     <outline text="Lyon/Twitter" title="Lyon/Twitter">
     </outline>
     <outline text="MacGeneration" title="MacGeneration">
+<outline text="Le Blog de l'Aventure Apple" title="Le Blog de l'Aventure Apple" type="rss" xmlUrl="http://www.aventure-apple.com/blog/feed/" htmlUrl="https://www.aventure-apple.com/blog"/>
 <outline text="MacGeneration | iGeneration | WatchGeneration" title="MacGeneration | iGeneration | WatchGeneration" type="rss" xmlUrl="https://megaflux.macg.co/" htmlUrl="http://www.macg.co/"/>
     </outline>
     <outline text="MacGeneration/Twitter" title="MacGeneration/Twitter">
