@@ -1,0 +1,27 @@
+directory: ~/Dropbox/Musique
+library: ~/Dropbox/Musique/library.blb
+pluginpath: ~/Dropbox/Musique/_plugins/
+plugins: inline info ftintitle web
+
+threaded: yes
+ignore: ._* .AppleDouble .DS_Store
+asciify_paths: yes
+art_filename: cover
+per_disc_numbering: yes
+sort_case_insensitive: yes
+
+import:
+  copy: yes
+  write: no
+  resume: ask
+  quiet_fallback: skip
+  timid: no
+  
+paths:
+  default: ${albumartist}/${album}%aunique{}/%if{${multidisc},${disc}-}${track}.${title}
+  comp: ${albumartist}/${album}%aunique{}/%if{${multidisc},${disc}-}${track}.${title}
+  singleton: Singletons/${artist} - ${title}
+  
+ftintitle:
+  auto: yes
+  format: '[feat. {0}]'
