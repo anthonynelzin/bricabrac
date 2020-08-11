@@ -1,26 +1,32 @@
-directory: ~/Dropbox/Musique
 library: ~/Dropbox/Musique/library.blb
-pluginpath: ~/Dropbox/Musique/_plugins/
-plugins: inline info ftintitle web
+directory: ~/Dropbox/Musique
+plugins: inline info fetchart ftintitle
 
-threaded: yes
 ignore: ._* .AppleDouble .DS_Store
 asciify_paths: yes
+threaded: yes
 art_filename: cover
 per_disc_numbering: yes
 sort_case_insensitive: yes
+max_filename_length: 64
 
 import:
-  copy: yes
-  write: no
   resume: ask
   quiet_fallback: skip
-  timid: no
   
 paths:
   default: ${albumartist}/${album}%aunique{}/%if{${multidisc},${disc}-}${track}.${title}
   comp: ${albumartist}/${album}%aunique{}/%if{${multidisc},${disc}-}${track}.${title}
   singleton: Singletons/${artist} - ${title}
+  
+fetchart:
+    maxwidth: 1200
+    sources:
+        - filesystem
+        - coverart: release
+        - itunes
+        - coverart: releasegroup
+        - '*'
   
 ftintitle:
   auto: yes
